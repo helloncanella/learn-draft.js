@@ -23,7 +23,7 @@
     "@storybook/addon-storysource": "5.2.1",
     "@storybook/addon-viewport": "5.2.1",
     "@storybook/addons": "5.2.1",
-    "@storybook/react": "5.2.1",
+    "@storybook/react": "8.2.9",
     "babel-eslint": "10.0.3",
     "babel-loader": "8.0.6",
     "eslint": "6.4.0",
@@ -36,9 +36,9 @@
     "react-i18next": "10.12.5",
     "react-router": "5.0.1",
     "react-router-dom": "5.0.1",
-    "react-scripts": "3.1.2",
+    "react-scripts": "5.0.1",
     "storybook-addon-i18next": "1.2.1",
-    "webpack": "4.40.2"
+    "webpack": "5.94.0"
   },
   "browserslist": {
     "production": [
